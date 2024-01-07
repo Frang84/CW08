@@ -1,0 +1,14 @@
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\bin\Debug\net6.0\SingleThread.exe
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\bin\Debug\net6.0\SingleThread.deps.json
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\bin\Debug\net6.0\SingleThread.runtimeconfig.json
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\bin\Debug\net6.0\SingleThread.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\bin\Debug\net6.0\SingleThread.pdb
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\SingleThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\SingleThread.AssemblyInfoInputs.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\SingleThread.AssemblyInfo.cs
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\SingleThread.csproj.CoreCompileInputs.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\SingleThread.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\refint\SingleThread.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\SingleThread.pdb
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\SingleThread.genruntimeconfig.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\SingleThread\SingleThread\obj\Debug\net6.0\ref\SingleThread.dll

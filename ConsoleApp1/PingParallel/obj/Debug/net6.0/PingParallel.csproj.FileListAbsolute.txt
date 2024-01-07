@@ -1,0 +1,14 @@
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\bin\Debug\net6.0\PingParallel.exe
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\bin\Debug\net6.0\PingParallel.deps.json
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\bin\Debug\net6.0\PingParallel.runtimeconfig.json
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\bin\Debug\net6.0\PingParallel.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\bin\Debug\net6.0\PingParallel.pdb
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\PingParallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\PingParallel.AssemblyInfoInputs.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\PingParallel.AssemblyInfo.cs
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\PingParallel.csproj.CoreCompileInputs.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\PingParallel.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\refint\PingParallel.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\PingParallel.pdb
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\PingParallel.genruntimeconfig.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\ConsoleApp1\PingParallel\obj\Debug\net6.0\ref\PingParallel.dll

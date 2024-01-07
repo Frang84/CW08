@@ -1,0 +1,14 @@
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\bin\Debug\net6.0\TaskPing.exe
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\bin\Debug\net6.0\TaskPing.deps.json
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\bin\Debug\net6.0\TaskPing.runtimeconfig.json
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\bin\Debug\net6.0\TaskPing.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\bin\Debug\net6.0\TaskPing.pdb
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\TaskPing.GeneratedMSBuildEditorConfig.editorconfig
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\TaskPing.AssemblyInfoInputs.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\TaskPing.AssemblyInfo.cs
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\TaskPing.csproj.CoreCompileInputs.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\TaskPing.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\refint\TaskPing.dll
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\TaskPing.pdb
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\TaskPing.genruntimeconfig.cache
+C:\studia\rokIII\Vsemestr\ProgramowanieWCSharp\cwiczenia\CW08\TaskPing\TaskPing\obj\Debug\net6.0\ref\TaskPing.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{352E032D-123C-48F6-9FAF-B61DABDD4DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingParallel", "PingParallel\PingParallel.csproj", "{CA59260A-D022-4225-94EF-AED103CE36E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352E032D-123C-48F6-9FAF-B61DABDD4DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352E032D-123C-48F6-9FAF-B61DABDD4DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352E032D-123C-48F6-9FAF-B61DABDD4DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352E032D-123C-48F6-9FAF-B61DABDD4DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA59260A-D022-4225-94EF-AED103CE36E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA59260A-D022-4225-94EF-AED103CE36E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA59260A-D022-4225-94EF-AED103CE36E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA59260A-D022-4225-94EF-AED103CE36E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE46DB3B-D8C1-4AE9-A77C-734C9E81B154}
+	EndGlobalSection
+EndGlobal
